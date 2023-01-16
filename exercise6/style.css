@@ -1,0 +1,26 @@
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.card {
+    width: 200px;
+    margin: 20px;
+}
+
+
+.card-image{
+    width: 200px;
+    height: 150px;
+}
+
+.page-number{
+    width: 180px;
+    margin-right: 20px;
+}
+
+.limit{
+    width: 180px;
+    margin-right: 10px;
+}

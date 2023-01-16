@@ -1,0 +1,5 @@
+ul.complete-task {
+    text-decoration: dashed;
+    text-decoration-style: solid;
+    text-decoration-line: line-through;
+}
